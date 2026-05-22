@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  I enjoy building modern web applications, integrating AI-powered experiences, and working with AI & Computer Vision systems.
+  I enjoy building modern web applications, real-time systems, integrating AI-powered experiences, and working with AI & Computer Vision systems.
 </p>
 
 ---
@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/REST_API-1A1B27?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/YOLO-1A1B27?style=for-the-badge&logo=yolo&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-1A1B27?style=for-the-badge&logo=google-gemini&logoColor=8E75FF" />
+  <img src="https://img.shields.io/badge/Socket.IO-1A1B27?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ---
