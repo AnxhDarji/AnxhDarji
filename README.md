@@ -76,7 +76,7 @@
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AnxhDarji&theme=tokyonight&hide_border=true" />
 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnxhDarji&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnxhDarji&theme=tokyonight" />
 </p>
 
 ---
